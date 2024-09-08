@@ -47,14 +47,11 @@ export const cardsData = [
         id: 800,
         name: "Item 8"
       },
-      {
-        id: 900,
-        name: "Item 9"
-      },
+    
     ]
   }
 
-
+  
 ]
 
 
